@@ -1,6 +1,7 @@
 # Usagi API {Roblox Studio}
 (l'icon n'est pas fait par moi, je l'ai juste trouvé sur google et je l'ai pris)
-![UsagiAPI Icon](https://hackmd.io/_uploads/HyzvPK20fg.png)
+<img width="736" height="736" alt="UsagiAPI Icon" src="https://github.com/user-attachments/assets/f49ad447-6e3d-49db-9a92-9d166e0ec7b2" />
+
 Usagi API est un ModuleScript qui permet de faciliter les taches avec des fonctions intégrées.
 Avec Usagi API, vous pourriez faire plusieurs de choses comme construire des hitbox, ajouter des tags à un objet, et d'autres fonctions que vous allez voir après.
 
