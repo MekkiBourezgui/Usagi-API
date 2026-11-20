@@ -6,8 +6,8 @@ Usagi API est un ModuleScript qui permet de faciliter les taches avec des foncti
 Avec Usagi API, vous pourriez faire plusieurs de choses comme construire des hitbox, ajouter des tags à un objet, et d'autres fonctions que vous allez voir après.
 
 ## L'installation du API
-
-Vous installez le fichier qui sera disponible demain et ensuite l'importer dans **ReplicatedStorage**.
+[Usagi API](https://github.com/MekkiBourezgui/Projets-Lua/blob/main/UsagiAPI.rbxm)
+Vous installez le fichier ensuite l'importer dans **ReplicatedStorage**.
 Pour l'utiliser dans vos programmes, faudra juste faire ça : 
 ```lua
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
