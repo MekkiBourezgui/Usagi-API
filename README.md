@@ -29,9 +29,13 @@ local Hitbox = HitboxAPI.new({
     })
 ```
 Size - taille du Hitbox
+
 CFrame - la position et rotation du Hitbox
+
 ignoreList - la list des objets pour que le Hitbox ignore.
+
 DoVisualize - pour visualiser le hitbox.
+
 Target - si le target doit être un objet BasePart ou les personnages humanoid.
 Exemple : 
 ```lua
@@ -51,6 +55,7 @@ Cette exemple permet de créer un hitbox devant le personnage pour pouvoir aprè
 Hitbox:Start(callBack, TimeLength)
 ```
 callBack - fonction que le Hitbox devra utiliser lorsqu'elle detecte un objet dans le hitbox.
+
 Timelength - la durée du Hitbox casting. (elle se détruit automatiquement après cette durée)
 
 Exemple
@@ -117,8 +122,11 @@ local instance = InstanceAPI.new({
     })
 ```
 ClassName - Part, Beam, Trail, MeshPart, etc. tout les instances disponibles sur Roblox.
+
 Properties - les propriétés de l'instance.
+
 LifeTime - la durée de vie de l'instance.
+
 DoPooling - mettre l'objet dans le fichier "Cache", et le reprendre lorsque c'est demandé. C'est très util pour l'optimization. Souvent utilisé pour les projectiles et les effets visuelles.
 
 Exemple : 
