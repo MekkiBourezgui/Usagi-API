@@ -132,7 +132,7 @@ DoPooling - mettre l'objet dans le fichier "Cache", et le reprendre lorsque c'es
 Exemple : 
 ```lua
 local Part = InstanceAPI.new({
-        Instance = ClassName,
+        Instance = "Part",
         Properties = {
             Size = Vector3.new(2.5, 2.5, 5),
             Anchored=true,
